@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students>
+  <student specialty = "Electrical Technologies">
+    <name>Bob</name>
+    <surname>Bris</surname>
+    <nameGroup>SP-112</nameGroup>
+    <age>20</age>
+    <degree>3</degree>
+    <profession>Electrician</profession>
+    <lectures>
+      <lecture>
+        <title>Lecture 1</title>
+        <description>desc lecture 1</description>
+        <lecturer>name lecturer</lecturer>
+        <durationInMinutes>90</durationInMinutes>
+      </lecture>
+      <lecture>
+        <title>Lecture 2</title>
+        <description>desc lecture 2</description>
+        <lecturer>name lecturer</lecturer>
+        <durationInMinutes>85</durationInMinutes>
+      </lecture>
+      <lecture>
+        <title>Lecture 3</title>
+        <description>desc lecture 3</description>
+        <lecturer>name lecturer</lecturer>
+        <durationInMinutes>80</durationInMinutes>
+      </lecture>
+    </lectures>
+  </student>
+  <student specialty = "Architectural Activity">
+    <name>Eric</name>
+    <surname>Summon</surname>
+    <nameGroup>KM-130</nameGroup>
+    <age>18</age>
+    <degree>1</degree>
+    <profession>Builder</profession>
+    <lectures>
+      <lecture>
+        <title>Lecture 1</title>
+        <description>desc lecture 1</description>
+        <lecturer>name lecturer</lecturer>
+        <durationInMinutes>90</durationInMinutes>
+      </lecture>
+      <lecture>
+        <title>Lecture 2</title>
+        <description>desc lecture 2</description>
+        <lecturer>name lecturer</lecturer>
+        <durationInMinutes>90</durationInMinutes>
+      </lecture>
+    </lectures>
+  </student>
+  <student specialty = "Accounting and Auditing">
+    <name>Ivan</name>
+    <surname>Ivanovich</surname>
+    <nameGroup>MKС-123</nameGroup>
+    <age>23</age>
+    <degree>5</degree>
+    <profession>Accountant</profession>
+    <lectures>
+      <lecture>
+        <title>Lecture 1</title>
+        <description>desc lecture 1</description>
+        <lecturer>name lecturer</lecturer>
+        <durationInMinutes>90</durationInMinutes>
+      </lecture>
+      <lecture>
+        <title>Lecture 2</title>
+        <description>desc lecture 2</description>
+        <lecturer>name lecturer</lecturer>
+        <durationInMinutes>90</durationInMinutes>
+      </lecture>
+    </lectures>
+  </student>
+</students>
