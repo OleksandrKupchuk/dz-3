@@ -1,0 +1,76 @@
+{
+	"students": [
+		{
+			"name": "Bob",
+			"surname": "Bris",
+			"nameGroup": "SP-112",
+			"age": "20",
+			"degree": 3,
+			"profession": "Electrician",
+			"lectures": [
+				{
+					"title": "Lecture 1",
+					"description": "desc lecture 1",
+					"lecturer": "name lecturer",
+					"durationInMinutes": 90
+				},
+				{
+					"title": "Lecture 2",
+					"description": "desc lecture 2",
+					"lecturer": "name lecturer",
+					"durationInMinutes": 85
+				},
+				{
+					"title": "Lecture 3",
+					"description": "desc lecture 3",
+					"lecturer": "name lecturer",
+					"durationInMinutes": 80
+				}
+			]
+		},
+		{
+			"name": "Eric",
+			"surname": "Summon",
+			"nameGroup": "KM-130",
+			"age": "18",
+			"degree": 1,
+			"profession": "Builder",
+			"lectures": [
+				{
+					"title": "Lecture 1",
+					"description": "desc lecture 1",
+					"lecturer": "name lecturer",
+					"durationInMinutes": 90
+				},
+				{
+					"title": "Lecture 2",
+					"description": "desc lecture 2",
+					"lecturer": "name lecturer",
+					"durationInMinutes": 90
+				}
+			]
+		},
+		{
+			"name": "Ivan",
+			"surname": "Ivanovich",
+			"nameGroup": "MKÑ-123",
+			"age": "23",
+			"degree": 5,
+			"profession": "Accountant",
+			"lectures": [
+				{
+					"title": "Lecture 1",
+					"description": "desc lecture 1",
+					"lecturer": "name lecturer",
+					"durationInMinutes": 90
+				},
+				{
+					"title": "Lecture 2",
+					"description": "desc lecture 2",
+					"lecturer": "name lecturer",
+					"durationInMinutes": 90
+				}
+			]
+		}
+	]
+}
